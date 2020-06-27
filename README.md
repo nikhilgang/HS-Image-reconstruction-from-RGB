@@ -1,3 +1,3 @@
 # HS-Image-reconstruction-from-RGB
 
-![GitHub Logo](/images/logo.png)
+![RGB to HyperSpectral](https://github.com/nikhilgang/HS-Image-reconstruction-from-RGB/blob/master/img/Capture_hstorgbchannel.JPG)
